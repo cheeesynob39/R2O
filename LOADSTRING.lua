@@ -47,7 +47,7 @@ if game.PlaceId == 6403373529 then
     end
     
     game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("smh i suck", "All")
-    game.ReplicatedStorage.WalkSpeedChanged:FireServer("bro tried to use r2o (epic fail) Slaps: " .. game.Players.LocalPlayer.leaderstats.Slaps.Value)
+    game.ReplicatedStorage.WalkSpeedChanged:FireServer("bro tried to use r2o (epic fail) (dasdres on top) Slaps: " .. game.Players.LocalPlayer.leaderstats.Slaps.Value)
 elseif game.PlaceId == 11520107397 then
     if writefile and not isfile("BANNED_FROM_SLAP_BATTLES.gif") then
         writefile("BANNED_FROM_SLAP_BATTLES.gif", game:HttpGet("https://media.tenor.com/PHREyAefRckAAAAS/packwatch.gif"))
@@ -91,7 +91,7 @@ elseif game.PlaceId == 11520107397 then
     end
     
     game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("smh i suck", "All")
-    game.ReplicatedStorage.WalkSpeedChanged:FireServer("bro tried to use r2o (epic fail) Slaps: " .. game.Players.LocalPlayer.leaderstats.Slaps.Value)
+    game.ReplicatedStorage.WalkSpeedChanged:FireServer("bro tried to use r2o (epic fail) (dasdres on top) Slaps: " .. game.Players.LocalPlayer.leaderstats.Slaps.Value)
 else
     if writefile and not isfile("BANNED_FROM_SLAP_BATTLES.gif") then
         writefile("BANNED_FROM_SLAP_BATTLES.gif", game:HttpGet("https://media.tenor.com/PHREyAefRckAAAAS/packwatch.gif"))
