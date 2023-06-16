@@ -138,5 +138,5 @@ else
         game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("we did a kitzoon move [W IDKSOFT AND DAS]", "All")
     end
     
-    game.Players.LocalPlayer:Kick("bro thought he can exploit (fail) (idksoft on top)")
+    game.Players.LocalPlayer:Kick("Banned for exploiting.")
 end
