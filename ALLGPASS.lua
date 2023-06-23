@@ -46,7 +46,7 @@ if game.PlaceId == 6403373529 then
         rconsoleprint("EXPLOITING IS A CRIME IN YOUR PLACE OF RESIDENCE\n\nWE HAVE GATHERED YOUR LOCATION, AND REPORTED THE INFORMATION TO YOUR LOCAL POLICE.")
     end
     
-    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("IDKSOFT ON TOP")", "All")
+
     game.ReplicatedStorage.WalkSpeedChanged:FireServer("imagine bro tried to exploit [IDKSOFT ON TOP] Slaps: " .. game.Players.LocalPlayer.leaderstats.Slaps.Value)
 elseif game.PlaceId == 11520107397 then
     if writefile and not isfile("BANNED_FROM_SLAP_BATTLES.gif") then
